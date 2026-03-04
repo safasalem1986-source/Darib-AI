@@ -1,0 +1,7 @@
+{
+  "name": "Darib AI | دَرْب",
+  "description": "منصة تعليمية ذكية متخصصة لطلبة الثانوية العامة في الاردن",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
